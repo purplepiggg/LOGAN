@@ -1,0 +1,46 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="deven.net" resolutions="1x" timestamp="1609118199917">
+  <folder name="assets">
+    <file name="mount-fuji-japan-hd-high-definition-widescreen-wallpapers-free-download-mobile-pc-computer-desktop-t.jpg" crc="427983728" seo="true" mt="1609109147000"/>
+  </folder>
+  <folder name="images">
+    <file name="mount-fuji-japan-hd-high-definition-widescreen-wallpapers-free-download-mobile-pc-computer-desktop-t.jpg" crc="4107221640" seo="true" ref="fuji">
+      <caption webpage="fuji" alt=""/>
+      <caption webpage="art--copy" alt=""/>
+      <caption webpage="art-" alt=""/>
+    </file>
+    <file name="file-20181201-194932-cfho9d-crop-u392.jpg" crc="128330704" seo="true" ref="night">
+      <caption webpage="night" alt=""/>
+    </file>
+    <file name="logans_donuts_ad.jpg" crc="228640666" seo="true" ref="logans-ad">
+      <caption webpage="logans-ad" alt=""/>
+    </file>
+    <file name="untitled-1.jpg" crc="259780676" seo="true" ref="untitled">
+      <caption webpage="untitled" alt=""/>
+    </file>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4185789891" ref="index"/>
+    <file name="night.css" crc="319846593" ref="night"/>
+    <file name="fuji.css" crc="29492873" ref="fuji"/>
+    <file name="logans-ad.css" crc="3964057409" ref="logans-ad"/>
+    <file name="menu.css" crc="4026807137" ref="menu"/>
+    <file name="song-collection.css" crc="3766852559" ref="song-collection"/>
+    <file name="untitled.css" crc="3976590402" ref="untitled"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:menu:fuji:night:logans-ad:song-collection:untitled"/>
+    <file name="museutils.js" crc="340535759" ref="index:menu:fuji:night:logans-ad:song-collection:untitled"/>
+    <file name="whatinput.js" crc="86476730" ref="index:menu:fuji:night:logans-ad:song-collection:untitled"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:menu:fuji:night:logans-ad:song-collection:untitled"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:menu:fuji:night:logans-ad:song-collection:untitled"/>
+    <file name="require.js" crc="7928878" ref="index:menu:fuji:night:logans-ad:song-collection:untitled"/>
+  </folder>
+  <file name="index.html" crc="3987747680" seo="true" mt="1609114972146" redirect="true"/>
+  <file name="menu.html" crc="3894823534" seo="true" mt="1609118193079" redirect="true"/>
+  <file name="fuji.html" crc="190845453" seo="true" mt="1609115511899" redirect="true"/>
+  <file name="night.html" crc="3917954525" seo="true" mt="1609115585748" redirect="true"/>
+  <file name="logans-ad.html" crc="4084128949" seo="true" mt="1609116008748" redirect="true"/>
+  <file name="song-collection.html" crc="415898591" seo="true" mt="1609117436244" redirect="true"/>
+  <file name="untitled.html" crc="4182738076" seo="true" mt="1609118184381" redirect="true"/>
+</manifest>
